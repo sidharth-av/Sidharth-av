@@ -26,10 +26,6 @@ I am a passionate Frontend Developer with extensive experience in Shopify app de
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 
-## 📊 GitHub Stats
-
-![Sidharth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sidharth-av&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sidharth-av&layout=compact&theme=radical)
 
 ## 🏆 Achievements
 
