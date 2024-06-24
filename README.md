@@ -30,7 +30,7 @@ I am a passionate Frontend Developer with extensive experience in Shopify app de
 ## 🏆 Achievements
 
 - 🥇 Developed a high-converting Shopify app used by multiple e-commerce businesses
-- 🥉 Completed an advanced React Native course with distinction
+- 🥉 Developed e-commerce website using react JS
 
 
 ## 🔗 Connect with Me
