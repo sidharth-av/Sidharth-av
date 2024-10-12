@@ -57,7 +57,7 @@ I am a passionate Frontend Developer with extensive experience in Shopify app de
 
 ## 🏆 Achievements
 
-- 🥇 Developed a high-converting Shopify app used by multiple e-commerce businesses
+- 🥇 Developed a high-converting Shopify apps and theme used by multiple e-commerce businesses
 - 🥉 Developed e-commerce websites using React JS
 
 ## 💻 Projects
