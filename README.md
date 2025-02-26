@@ -72,6 +72,18 @@ I am a passionate Frontend Developer with extensive experience in Shopify app de
 - **[Paramount Creations](https://paramountcreations.com.au/):** Created the frontend for a custom signage company.
 - **[Frankston Concrete](https://frankstonconcrete.com.au/):** Built the frontend for a concrete services company.
 
+### Shopify Themes
+- **[Infinity Theme](https://themes.shopify.com/themes/infinity/styles/mystic)** : A Shopify theme built following all Shopify guidelines.
+
+### Shopify Apps
+- **[Variant Description](https://apps.shopify.com/em-secondary-description)** : Enables variant switching for both images and descriptions.
+- **[Related Products](https://apps.shopify.com/em-custom-related-products)** : Displays related products specific to each item.
+- **[Delivery Date Picker](https://apps.shopify.com/delivery-date-picker-plus)** : Allows customers to select a custom delivery date during checkout.
+- **[Product Compare](https://apps.shopify.com/em-selectpro-product-compare)** : Enables comparison of multiple products.
+- **[Adress Protector](https://apps.shopify.com/em-default-address-protector)** : Protects the default shipping address.
+- **[Recommendation Quiz](https://apps.shopify.com/em-product-recommendation-quiz)** : Helps users find specific products through an interactive quiz.
+- **[Collection Sort App](https://apps.shopify.com/em-product-collection-sort)** : Allows collections to be sorted as needed.
+
 ## 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/sidharth-av/)
